@@ -12,8 +12,7 @@ Commenting:
 
 
 script names:
-	short and descriptive. The first letter of each word will be capitalized.
-								e.g.	CameraController
+	short and descriptive.
 
 variable names:
 	variables should be descriptive.
